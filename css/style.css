@@ -1,0 +1,13 @@
+table{
+    background-image: url(./juju.png);
+    background-size: 1000px ;
+    
+}
+   th{
+    border:solid 1px rgb(11, 19, 136);  
+    height: 70px;
+    color: deeppink;
+   } 
+td{
+    border: solid rgb(8, 49, 138);
+    width: 500px; height: 200px;
